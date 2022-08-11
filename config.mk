@@ -9,4 +9,5 @@ PRODUCT_PACKAGES += \
     xdMaps \
     xdNotes \
     xdSnapseed \
-    xdTranslate
+    xdTranslate \
+    xdYouTube
