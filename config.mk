@@ -6,4 +6,5 @@ PRODUCT_PACKAGES += \
     xdBromite \
     xdDrive \
     xdGmail \
-    xdMaps
+    xdMaps \
+    xdNotes
