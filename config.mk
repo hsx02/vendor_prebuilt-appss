@@ -7,4 +7,5 @@ PRODUCT_PACKAGES += \
     xdDrive \
     xdGmail \
     xdMaps \
-    xdNotes
+    xdNotes \
+    xdSnapseed
