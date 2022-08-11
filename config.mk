@@ -8,4 +8,5 @@ PRODUCT_PACKAGES += \
     xdGmail \
     xdMaps \
     xdNotes \
-    xdSnapseed
+    xdSnapseed \
+    xdTranslate
