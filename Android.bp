@@ -1,2 +1,15 @@
 soong_namespace {
 }
+
+android_app_import {
+	name: "xdApkBackup",
+	owner: "unknown",
+	apk: "xdApkBackup.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+	overrides: ["apkback"],
+}
