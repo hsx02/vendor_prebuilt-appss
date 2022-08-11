@@ -10,4 +10,5 @@ PRODUCT_PACKAGES += \
     xdNotes \
     xdSnapseed \
     xdTranslate \
-    xdYouTube
+    xdYouTube \
+    xdYTMusic

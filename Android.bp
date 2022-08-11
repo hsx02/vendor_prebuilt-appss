@@ -117,3 +117,16 @@ android_app_import {
 	product_specific: true,
 	overrides: ["Youtube" , "YouTube"],
 }
+
+android_app_import {
+	name: "xdYTMusic",
+	owner: "Vanced",
+	apk: "xdYTMusic.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+	overrides: ["YouTubeMusic" , "YTMusic"],
+}
