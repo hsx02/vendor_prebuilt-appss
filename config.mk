@@ -5,4 +5,5 @@ PRODUCT_PACKAGES += \
     xdApkBackup \
     xdBromite \
     xdDrive \
-    xdGmail
+    xdGmail \
+    xdMaps

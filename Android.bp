@@ -52,3 +52,16 @@ android_app_import {
 	product_specific: true,
 	overrides: ["Gmail"],
 }
+
+android_app_import {
+	name: "xdMaps",
+	owner: "google",
+	apk: "xdMaps.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+	overrides: ["Maps"],
+}
